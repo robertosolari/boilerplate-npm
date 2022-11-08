@@ -1,6 +1,6 @@
 {
-	"author": "Roberto Solari",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Roberto Solari",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
